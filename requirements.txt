@@ -1,0 +1,8 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - subprocess (for running AppleScript and clipboard operations)
+# - time (for delays between messages)
+# - re (for regular expressions and text formatting)
+# - pathlib (for file path operations)
+
+# All functionality is built using macOS system utilities and Python built-ins
